@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1068845651092",
+    "firebase_url": "https://datos-sensibles-default-rtdb.firebaseio.com",
+    "project_id": "datos-sensibles",
+    "storage_bucket": "datos-sensibles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068845651092:android:fad369398e1301c076d081",
+        "android_client_info": {
+          "package_name": "com.example.datossensibles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068845651092-bjr0f78nid4lf5boghpqtrvrjtsmhupg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfCJws_EjyoN91jBX9bX-yA9ESwA_qqXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068845651092-bjr0f78nid4lf5boghpqtrvrjtsmhupg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
